@@ -3,6 +3,7 @@
 16 款表情，每款都有动态 GIF 和 240 × 240 像素的透明 PNG。
 
 - **[下载动态版 GIF（ZIP）](https://github.com/wr316yn/blue-haired-whale-stickers/releases/latest/download/blue-haired-whale-stickers-v1.0.0.zip)**
+- **[下载动态补帧版 GIF（ZIP）](https://github.com/wr316yn/blue-haired-whale-stickers/releases/latest/download/blue-haired-whale-stickers-interpolated.zip)**
 - **[下载静态版透明 PNG（ZIP）](https://github.com/wr316yn/blue-haired-whale-stickers/releases/latest/download/blue-haired-whale-stickers-static-v1.1.0.zip)**
 
 解压后可获得带中文文件名的原图，也可以点击下方任一张图打开单张文件。
